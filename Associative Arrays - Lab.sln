@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Synonyms", "03. Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Largest 3 Numbers", "04. Largest 3 Numbers\04. Largest 3 Numbers.csproj", "{C8B572C8-D346-4DFE-9C5A-32C89A46A26B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Word Filter", "05. Word Filter\05. Word Filter.csproj", "{4414D156-0C7D-49F3-BE83-FE5D9BB826DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C8B572C8-D346-4DFE-9C5A-32C89A46A26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8B572C8-D346-4DFE-9C5A-32C89A46A26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8B572C8-D346-4DFE-9C5A-32C89A46A26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4414D156-0C7D-49F3-BE83-FE5D9BB826DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4414D156-0C7D-49F3-BE83-FE5D9BB826DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4414D156-0C7D-49F3-BE83-FE5D9BB826DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4414D156-0C7D-49F3-BE83-FE5D9BB826DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
